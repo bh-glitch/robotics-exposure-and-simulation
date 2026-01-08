@@ -1,10 +1,10 @@
 # Automation Expo – Photos
 
-This folder contains photos captured at the Automation Expo (Mumbai, Summer 2025).
+This folder contains photos from the Automation Expo (Mumbai, Summer 2025).
 
-The images include:
-- Industrial robotic arms performing pick-and-place tasks
-- Autonomous mobile robots used for material handling
-- Drone systems designed for warehouse inspection and inventory tracking
+The images document:
+- An autonomous load-carrying mobile robot designed for industrial logistics
+- A system capable of operating under significant physical load (up to 300 kg)
+- Human-robot interaction in a controlled exhibition environment
 
-These photos document real-world robotic systems operating at scale and provide context for my interest in robot perception, planning, and manipulation.
+These photos provide visual context for real-world autonomous robotic systems operating outside laboratory settings.
